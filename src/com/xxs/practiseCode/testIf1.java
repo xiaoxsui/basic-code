@@ -1,4 +1,4 @@
-package com.xxs.demo1;
+package com.xxs.practiseCode;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 如果你的时髦程度大于你对象的时髦程度,相亲就成功,输出true
 否则输出false
 */
-public class test {
+public class testIf1 {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入你衣服的时髦度");

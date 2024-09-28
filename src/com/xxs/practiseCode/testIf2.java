@@ -1,4 +1,4 @@
-package com.xxs.demo1;
+package com.xxs.practiseCode;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 如果它们的和为6的倍数,最终结果输出true
 其他情况都是false
 */
-public class test1 {
+public class testIf2 {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入两个整数:");
